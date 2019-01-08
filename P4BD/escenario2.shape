@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>P4BD - escenario2</name>
+  <icon>escenario2.png</icon>
+  <connections>
+    <point x="13.35" y="8.45"/>
+    <point x="17.445" y="10.25"/>
+    <point x="13.35" y="10.25"/>
+    <point x="13.35" y="9.35"/>
+    <point x="17.445" y="8.45"/>
+    <point x="17.445" y="9.35"/>
+    <point x="15.3975" y="10.25"/>
+    <point x="15.3975" y="8.45"/>
+    <point x="5.135" y="8.44"/>
+    <point x="9.23" y="10.24"/>
+    <point x="5.135" y="10.24"/>
+    <point x="5.135" y="9.34"/>
+    <point x="9.23" y="8.44"/>
+    <point x="9.23" y="9.34"/>
+    <point x="7.1825" y="10.24"/>
+    <point x="7.1825" y="8.44"/>
+    <point x="13.12" y="1.28"/>
+    <point x="17.6" y="3.08"/>
+    <point x="13.12" y="3.08"/>
+    <point x="13.12" y="2.18"/>
+    <point x="17.6" y="1.28"/>
+    <point x="17.6" y="2.18"/>
+    <point x="15.36" y="3.08"/>
+    <point x="15.36" y="1.28"/>
+    <point x="20.905" y="8.47"/>
+    <point x="24.23" y="10.27"/>
+    <point x="20.905" y="10.27"/>
+    <point x="20.905" y="9.37"/>
+    <point x="24.23" y="8.47"/>
+    <point x="24.23" y="9.37"/>
+    <point x="22.5675" y="10.27"/>
+    <point x="22.5675" y="8.47"/>
+    <point x="14.8" y="5.25"/>
+    <point x="15.8" y="5.25"/>
+    <point x="15.3" y="6.5"/>
+    <point x="15.3" y="5.25"/>
+    <point x="15.55" y="5.875"/>
+    <point x="15.36" y="3.08"/>
+    <point x="15.3" y="5.25"/>
+    <point x="15.33" y="4.165"/>
+    <point x="15.0414" y="5.9854"/>
+    <point x="9.27975" y="8.44478"/>
+    <point x="12.1606" y="7.21509"/>
+    <point x="15.3177" y="6.50709"/>
+    <point x="15.3712" y="8.41338"/>
+    <point x="15.3445" y="7.46024"/>
+    <point x="15.55" y="5.875"/>
+    <point x="20.8611" y="8.52014"/>
+    <point x="18.2055" y="7.19757"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="13.35" y="8.45" width="4.095" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="13.35" y="8.45" width="4.095" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="15.3975" y="9.55" font-size="0.8" textLength="2.695">GERENTE</svg:text>
+    <svg:rect style="fill: #ffffff" x="5.135" y="8.44" width="4.095" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="5.135" y="8.44" width="4.095" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="7.1825" y="9.54" font-size="0.8" textLength="2.695">BECARIO</svg:text>
+    <svg:rect style="fill: #ffffff" x="13.12" y="1.28" width="4.48" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="13.12" y="1.28" width="4.48" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="15.36" y="2.38" font-size="0.8" textLength="3.08">EMPLEADO</svg:text>
+    <svg:rect style="fill: #ffffff" x="20.905" y="8.47" width="3.325" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="20.905" y="8.47" width="3.325" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="22.5675" y="9.57" font-size="0.8" textLength="1.925">LIDER</svg:text>
+    <svg:polygon style="fill: #ffffff" points="14.8,5.25 15.8,5.25 15.3,6.5 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="14.8,5.25 15.8,5.25 15.3,6.5 "/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 12.8,6.25 A 4.42281,4.42281 0 0 0 18.4,6.1"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.36" y1="3.08" x2="15.3" y2="5.25"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.0414" y1="5.9854" x2="9.27975" y2="8.44478"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.3177" y1="6.50709" x2="15.3712" y2="8.41338"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.55" y1="5.875" x2="20.8611" y2="8.52014"/>
+  </svg:svg>
+</shape>

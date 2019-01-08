@@ -1,0 +1,184 @@
+whenever sqlerror exit rollback
+set serveroutput on
+set verify off
+accept p_usuario  prompt 'Proporcionar el nombre de usuario: '
+accept p_usuario_pass  prompt 'Proporcionar el password del usuario &p_usuario: ' hide
+accept p_archivo_sql default 's-02-respuestas.sql' Prompt 'Indicar el nombre del archivo de respuestas [s-02-respuestas.sql]: ' 
+Prompt conectando como &p_usuario
+connect &p_usuario/&p_usuario_pass
+Prompt creando tablas de respuesta
+create or replace procedure p_elimina_tablas wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+fb 107
+pUEhVcA3ZCRa5vHWs04dJgeH0O8wgwFK2ssVfC+iJhAYecja0Y+XUt9w7q5d0A4DrFrzPmc2
+ia16n2fyNQ2MkELaBXvVS0rLOPJzV2hAEpwZVQGKh8oAL6bzkMTiX44wY3yI4rMXghKmHJQY
+pgoDfv0XKqLQJF39AKR8xNihaZvjZwIqIuXdtpoJYMVoDF4GLrn1ytcPLcJhTLnuiOl05wn2
+2GxyGIdP0L2X/gBQQp+YjQtENV6WV++TLddbjVLm0A==
+
+/
+show errors
+exec p_elimina_tablas;
+Prompt cargando archivo de respuestas
+@&p_archivo_sql
+create or replace procedure p_crea_tablas_respuesta wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+b4f 2fa
+QjXeBB/EX0nnE2m+M3/6Y5v/eXowgw0rLiAFfHRVMvmURT1EwEuQRR5Q6zwEhMvNQD+m7b2g
+2GHFkaHIQ+T5+ixSVf/ykSDZPvP6gCLxI5dkBU/qMYvu34Seti77/YWtw1Tr8j2gZalhv6/+
+isYzG852kdAxPWoQQGGxsTHJ+Nc/2r3syoTMtmDz91HlvvvYC445hT+iTOBQQPfs2eU6jV7t
+J2JZegUUaji4I8CIR/rI0ohfId0IShislCAREdFoRenVYoF2IQT09FaNQFL68Pepn1iSV7r0
+WMv9usnrAB600/9WnpXYfTcVV6PpsFpaCyhXgMMhN3ngo+GGEVvsNKncFRQusHNWLw1DiFBk
+d29XNtvBqs5y0doARVtAPq11abetX7AeoF04gJr8DIydZLs0Yq6FZbHvXVfAoNL0o1tHNu9Z
+UVH7bpsGgYIRKCGq/Grxlg8OlmJexvnY6EXIM8EOFsEzwDgBUg3IW3rynAfH+WIDY27Rks3l
+/HbYK0JVGEEbuQt61F2tgQClfFCGeGQFffTjMM3ntG36EpAT6wNk7zFx2KdSoDROIqS1FsED
+Hm0ficGti3Ogp1Kfu6wldxu5myiM3g62F6lW3q9dBhtsebeOSyfbbFLMOg68F8vErCuiggEm
+42q3h0uYUv7yclj8JKcz9y+WD//5Yk9QusbUpNOP76hjv4Xb/YIPHyW1CplB6qDHEuAGqdC7
+7/BaOzPqVnFkcbWtrIrJxzopeAv8nKs=
+
+/
+show errors
+exec p_crea_tablas_respuesta
+Prompt cargando datos de validacion
+create or  replace procedure p_carga_datos_validacion wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+197b 7eb
+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
+
+/
+show errors
+exec p_carga_datos_validacion
+create or replace procedure p_valida_respuestas wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+dea 4e5
+kdU4YdJ77J2yB49x2NyPBQSYwv4wg80reSATWi+8cjqUTnlSwi3dn+LwOwpGOOsOHYbRDKOq
+5ndQ1EkFzqaA/D4k+UBEfktO4OmwP1eUbLPJF0EXh5+fybBoKnUpxzkTj6hx0VF8WoZ+A/AD
+ekeOVx3k6De7OnvEcVPrvlIKTodbVijpzscf5xB+HjdI5w/Ev57yD81fq+CLLoixLnNpNeXP
+m4hPROgyA5zLww0bfHGqZhr1BtoL1JQuYwLY+0O5F7tE2I4sN5V+l93mLf++ImqpnjlxPoNc
+W2iDo/peJneXQ+jB2iNjRGokZ2K/IHy20SCKtYdDr5R1T+h7bvAxgPbhF7K2FrSTzBmdjACN
+h/4mPLDWHD3ifQ6uZCqDHrP7GCHl7bAQ5P7sh4HZdUhQm0xwLlkzREJnHp8N1UtMv8VyLZ/h
+8HfZbZDeYxX6Ry30PjhJyJcEXeVls1ZboKJ0vwY6YVAdm85Us19K0r+BzMqL+nsF0cfY2xsa
+N95uI2tPldkwQWp6MeLHQzQdbTJB3bjHLIWkzqcb1cppaSqQBdqvvHxqH1R0SmpZDMZc2TYc
+4wXlY0nPPpdOMuqFy1t9y/dBPgcTaVJu6krE21u9Ikbibx55M98VkjaDj8vkO/dMNEmR2Fqi
+1ThTf3tGjNz4wAYyplLZG7KGi7QI4bEfXg/1CHhLO71ehUP9JCWI7ZfXC5MyzPE1buj6e9SV
+G1mEVEBpnBTIamV7N7TLqCidZgyOhIN8rGJvHBU6ZopBBhmq83sD7VHZ3yP8B7Uyi4jCYy/R
+f81XBfm96/FSXMhyH/pFEuy/KG3YRgb3YwVCvOmxP93T7V8VNM79jHzVKL6behjHNMfjGJxl
+6PXnsLTTxjJlz15dLlHA7IxOE1eyjEvpVA/4T+qp2DhNq1HAyvo9lbeGfZRyo6tXtFUOMOd3
+dIloV+Xye1uj0NASAK2Zch4xTOFBRjD5tLZx7n4nHjlenyjv8uHmvWYRecPaOf3EcUKwh3c3
+pPqhnHoejHhOWX4DieTdu8ANRV9mU527skAKlXzZQaWJ3WxCqAZmMfCpT70foQ4cmpYtXEI/
+QAtBGt5SH0U2oyXJk48SjHW2F4Ewf7TDVLm81RDUb0TR38W5cyfqnYM9Ps2XWlGV/pEWDz+P
+EMKysZFJ3W4wkAKqlRJ2hmhCpEl4EDgxp3UyCJWKfWZnGtnWLUjkPldhbU9Q4Agc8J+WO3Pv
+vLT5zQ8D26rx
+
+/
+show errors
+Prompt =============================================
+Prompt Iniciando proceso de validación de respuestas.
+Prompt Incluir en el reporte a partir de este punto
+Prompt =============================================
+set serveroutput on
+set linesize 200
+col host format A20
+col os_user format A20
+col db_user format A20
+select to_char(sysdate,'dd/mm/yyyy HH24:mi:ss') session_time, 
+SYS_CONTEXT('USERENV','HOST') host,SYS_CONTEXT('USERENV','OS_USER') os_user,
+username db_user
+from user_users;
+Prompt Validando respuestas
+exec p_valida_respuestas('&p_usuario')
+Prompt Listo!

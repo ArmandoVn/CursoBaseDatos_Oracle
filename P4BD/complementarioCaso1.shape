@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>P4BD - complementarioCaso1</name>
+  <icon>complementarioCaso1.png</icon>
+  <connections>
+    <point x="-10.45" y="-0.65"/>
+    <point x="-6.355" y="1.15"/>
+    <point x="-10.45" y="1.15"/>
+    <point x="-10.45" y="0.25"/>
+    <point x="-6.355" y="-0.65"/>
+    <point x="-6.355" y="0.25"/>
+    <point x="-8.4025" y="1.15"/>
+    <point x="-8.4025" y="-0.65"/>
+    <point x="23.75" y="-0.2"/>
+    <point x="28.23" y="1.6"/>
+    <point x="23.75" y="1.6"/>
+    <point x="23.75" y="0.7"/>
+    <point x="28.23" y="-0.2"/>
+    <point x="28.23" y="0.7"/>
+    <point x="25.99" y="1.6"/>
+    <point x="25.99" y="-0.2"/>
+    <point x="7.4" y="8.8"/>
+    <point x="12.265" y="10.6"/>
+    <point x="7.4" y="10.6"/>
+    <point x="7.4" y="9.7"/>
+    <point x="12.265" y="8.8"/>
+    <point x="12.265" y="9.7"/>
+    <point x="9.8325" y="10.6"/>
+    <point x="9.8325" y="8.8"/>
+    <point x="7.65" y="9.05"/>
+    <point x="12.015" y="10.35"/>
+    <point x="7.65" y="10.35"/>
+    <point x="7.65" y="9.7"/>
+    <point x="12.015" y="9.05"/>
+    <point x="12.015" y="9.7"/>
+    <point x="9.8325" y="10.35"/>
+    <point x="9.8325" y="9.05"/>
+    <point x="7.15" y="-0.4"/>
+    <point x="11.245" y="1.4"/>
+    <point x="7.15" y="1.4"/>
+    <point x="7.15" y="0.5"/>
+    <point x="11.245" y="-0.4"/>
+    <point x="11.245" y="0.5"/>
+    <point x="9.1975" y="1.4"/>
+    <point x="9.1975" y="-0.4"/>
+    <point x="16.15" y="11.4"/>
+    <point x="21.015" y="13.2"/>
+    <point x="16.15" y="13.2"/>
+    <point x="16.15" y="12.3"/>
+    <point x="21.015" y="11.4"/>
+    <point x="21.015" y="12.3"/>
+    <point x="18.5825" y="13.2"/>
+    <point x="18.5825" y="11.4"/>
+    <point x="44.6" y="-0.1"/>
+    <point x="52.16" y="1.7"/>
+    <point x="44.6" y="1.7"/>
+    <point x="44.6" y="0.8"/>
+    <point x="52.16" y="-0.1"/>
+    <point x="52.16" y="0.8"/>
+    <point x="48.38" y="1.7"/>
+    <point x="48.38" y="-0.1"/>
+    <point x="-6.3" y="17.15"/>
+    <point x="-2.59" y="18.95"/>
+    <point x="-6.3" y="18.95"/>
+    <point x="-6.3" y="18.05"/>
+    <point x="-2.59" y="17.15"/>
+    <point x="-2.59" y="18.05"/>
+    <point x="-4.445" y="18.95"/>
+    <point x="-4.445" y="17.15"/>
+    <point x="7.9" y="17.3"/>
+    <point x="12.765" y="19.1"/>
+    <point x="7.9" y="19.1"/>
+    <point x="7.9" y="18.2"/>
+    <point x="12.765" y="17.3"/>
+    <point x="12.765" y="18.2"/>
+    <point x="10.3325" y="19.1"/>
+    <point x="10.3325" y="17.3"/>
+    <point x="24.65" y="-10.95"/>
+    <point x="27.59" y="-9.15"/>
+    <point x="24.65" y="-9.15"/>
+    <point x="24.65" y="-10.05"/>
+    <point x="27.59" y="-10.95"/>
+    <point x="27.59" y="-10.05"/>
+    <point x="26.12" y="-9.15"/>
+    <point x="26.12" y="-10.95"/>
+    <point x="24.9" y="-10.7"/>
+    <point x="27.34" y="-9.4"/>
+    <point x="24.9" y="-9.4"/>
+    <point x="24.9" y="-10.05"/>
+    <point x="27.34" y="-10.7"/>
+    <point x="27.34" y="-10.05"/>
+    <point x="26.12" y="-9.4"/>
+    <point x="26.12" y="-10.7"/>
+    <point x="30.15" y="12.05"/>
+    <point x="34.63" y="13.85"/>
+    <point x="30.15" y="13.85"/>
+    <point x="30.15" y="12.95"/>
+    <point x="34.63" y="12.05"/>
+    <point x="34.63" y="12.95"/>
+    <point x="32.39" y="13.85"/>
+    <point x="32.39" y="12.05"/>
+    <point x="54.55" y="11"/>
+    <point x="57.875" y="12.8"/>
+    <point x="54.55" y="12.8"/>
+    <point x="54.55" y="11.9"/>
+    <point x="57.875" y="11"/>
+    <point x="57.875" y="11.9"/>
+    <point x="56.2125" y="12.8"/>
+    <point x="56.2125" y="11"/>
+    <point x="66.75" y="11.15"/>
+    <point x="72" y="12.95"/>
+    <point x="66.75" y="12.95"/>
+    <point x="66.75" y="12.05"/>
+    <point x="72" y="11.15"/>
+    <point x="72" y="12.05"/>
+    <point x="69.375" y="12.95"/>
+    <point x="69.375" y="11.15"/>
+    <point x="42.6" y="11.3"/>
+    <point x="44.77" y="13.1"/>
+    <point x="42.6" y="13.1"/>
+    <point x="42.6" y="12.2"/>
+    <point x="44.77" y="11.3"/>
+    <point x="44.77" y="12.2"/>
+    <point x="43.685" y="13.1"/>
+    <point x="43.685" y="11.3"/>
+    <point x="42" y="22.35"/>
+    <point x="46.095" y="24.15"/>
+    <point x="42" y="24.15"/>
+    <point x="42" y="23.25"/>
+    <point x="46.095" y="22.35"/>
+    <point x="46.095" y="23.25"/>
+    <point x="44.0475" y="24.15"/>
+    <point x="44.0475" y="22.35"/>
+    <point x="-11.5975" y="18.95"/>
+    <point x="-11.5975" y="17.15"/>
+    <point x="-15.1" y="18.05"/>
+    <point x="-8.095" y="18.05"/>
+    <point x="-14.1" y="18.45"/>
+    <point x="-9.095" y="18.45"/>
+    <point x="-11.5975" y="18.45"/>
+    <point x="0.05" y="18.0395"/>
+    <point x="2.7825" y="16.4"/>
+    <point x="5.515" y="18.0395"/>
+    <point x="2.7825" y="19.679"/>
+    <point x="1.41625" y="17.2197"/>
+    <point x="4.14875" y="17.2197"/>
+    <point x="4.14875" y="18.8592"/>
+    <point x="10.43" y="23.3"/>
+    <point x="10.43" y="21.5"/>
+    <point x="6.35" y="22.4"/>
+    <point x="14.51" y="22.4"/>
+    <point x="7.35" y="22.8"/>
+    <point x="13.51" y="22.8"/>
+    <point x="10.43" y="22.8"/>
+    <point x="7.55" y="13.9895"/>
+    <point x="10.2825" y="12.35"/>
+    <point x="13.015" y="13.9895"/>
+    <point x="10.2825" y="15.629"/>
+    <point x="8.91625" y="13.1698"/>
+    <point x="11.6487" y="13.1698"/>
+    <point x="11.6487" y="14.8092"/>
+    <point x="-2.4" y="0.3895"/>
+    <point x="0.3325" y="-1.25"/>
+    <point x="3.065" y="0.3895"/>
+    <point x="0.3325" y="2.029"/>
+    <point x="-1.03375" y="-0.43025"/>
+    <point x="1.69875" y="-0.43025"/>
+    <point x="1.69875" y="1.20925"/>
+    <point x="8" y="4.587"/>
+    <point x="9.77" y="3.525"/>
+    <point x="11.54" y="4.587"/>
+    <point x="9.77" y="5.649"/>
+    <point x="8.885" y="4.056"/>
+    <point x="10.655" y="4.056"/>
+    <point x="10.655" y="5.118"/>
+    <point x="8.4" y="4.587"/>
+    <point x="9.77" y="3.765"/>
+    <point x="11.14" y="4.587"/>
+    <point x="9.77" y="5.409"/>
+    <point x="9.085" y="4.176"/>
+    <point x="10.455" y="4.176"/>
+    <point x="10.455" y="4.998"/>
+    <point x="-8.04526" y="18.05"/>
+    <point x="-6.34925" y="18.05"/>
+    <point x="-7.19725" y="18.05"/>
+    <point x="10.4079" y="21.45"/>
+    <point x="10.3546" y="19.15"/>
+    <point x="10.3812" y="20.3"/>
+    <point x="-5.76265" y="0.292159"/>
+    <point x="-2.44944" y="0.345072"/>
+    <point x="-4.10604" y="0.318615"/>
+    <point x="-5.75866" y="0.0421908"/>
+    <point x="-6.26259" y="0.284175"/>
+    <point x="-5.76665" y="0.542127"/>
+    <point x="-6.01063" y="0.163183"/>
+    <point x="-6.01462" y="0.413151"/>
+    <point x="3.11363" y="0.424166"/>
+    <point x="6.54979" y="0.466997"/>
+    <point x="4.83171" y="0.445582"/>
+    <point x="6.54667" y="0.716978"/>
+    <point x="7.04975" y="0.473229"/>
+    <point x="6.5529" y="0.217016"/>
+    <point x="6.79821" y="0.595103"/>
+    <point x="6.80133" y="0.345123"/>
+    <point x="5.56398" y="18.0986"/>
+    <point x="7.85055" y="18.1472"/>
+    <point x="6.70727" y="18.1229"/>
+    <point x="-2.05957" y="18.0465"/>
+    <point x="0.000724182" y="18.0435"/>
+    <point x="-1.02942" y="18.045"/>
+    <point x="-2.43457" y="18.0471"/>
+    <point x="-1.93493" y="17.7964"/>
+    <point x="-2.05957" y="18.0465"/>
+    <point x="-1.9342" y="18.2964"/>
+    <point x="-2.18475" y="17.9217"/>
+    <point x="-1.99725" y="17.9214"/>
+    <point x="-1.99689" y="18.1714"/>
+    <point x="-13.345" y="-0.65"/>
+    <point x="-13.345" y="-2.45"/>
+    <point x="-15.5" y="-1.55"/>
+    <point x="-11.19" y="-1.55"/>
+    <point x="-14.5" y="-1.15"/>
+    <point x="-12.19" y="-1.15"/>
+    <point x="-13.345" y="-1.15"/>
+    <point x="-13.43" y="2.95"/>
+    <point x="-13.43" y="1.15"/>
+    <point x="-15.2" y="2.05"/>
+    <point x="-11.66" y="2.05"/>
+    <point x="1.7875" y="9.3"/>
+    <point x="1.7875" y="7.5"/>
+    <point x="-2.1" y="8.4"/>
+    <point x="5.675" y="8.4"/>
+    <point x="0.4875" y="11.7"/>
+    <point x="0.4875" y="9.9"/>
+    <point x="-3.4" y="10.8"/>
+    <point x="4.375" y="10.8"/>
+    <point x="2.83" y="13.75"/>
+    <point x="2.83" y="11.95"/>
+    <point x="-1.25" y="12.85"/>
+    <point x="6.91" y="12.85"/>
+    <point x="-0.25" y="13.25"/>
+    <point x="5.91" y="13.25"/>
+    <point x="2.83" y="13.25"/>
+    <point x="5.5625" y="7.4"/>
+    <point x="5.5625" y="5.6"/>
+    <point x="3.6" y="6.5"/>
+    <point x="7.525" y="6.5"/>
+    <point x="10.3154" y="16.7629"/>
+    <point x="10.3025" y="15.6774"/>
+    <point x="10.309" y="16.2201"/>
+    <point x="10.3199" y="17.1379"/>
+    <point x="10.064" y="16.6409"/>
+    <point x="10.3154" y="16.7629"/>
+    <point x="10.5639" y="16.6349"/>
+    <point x="10.1919" y="16.8894"/>
+    <point x="10.1897" y="16.7019"/>
+    <point x="10.4397" y="16.6989"/>
+    <point x="10.1053" y="12.3003"/>
+    <point x="9.93204" y="10.6488"/>
+    <point x="10.0187" y="11.4746"/>
+    <point x="9.82088" y="8.74974"/>
+    <point x="9.78359" y="5.6986"/>
+    <point x="9.80224" y="7.22417"/>
+    <point x="9.39816" y="1.9325"/>
+    <point x="9.61423" y="3.47495"/>
+    <point x="9.50619" y="2.70373"/>
+    <point x="9.34614" y="1.56113"/>
+    <point x="9.66309" y="2.02161"/>
+    <point x="9.39816" y="1.9325"/>
+    <point x="9.16792" y="2.09098"/>
+    <point x="9.50461" y="1.79137"/>
+    <point x="9.53062" y="1.97706"/>
+    <point x="9.28304" y="2.01174"/>
+    <point x="-11.9362" y="1.51519"/>
+    <point x="-10.4995" y="1.00081"/>
+    <point x="-11.2179" y="1.258"/>
+    <point x="-11.6744" y="-0.941577"/>
+    <point x="-10.5003" y="-0.513989"/>
+    <point x="-11.0873" y="-0.727783"/>
+    <point x="6.03" y="-2.725"/>
+    <point x="6.03" y="-4.525"/>
+    <point x="1.95" y="-3.625"/>
+    <point x="10.11" y="-3.625"/>
+    <point x="14.0275" y="3.825"/>
+    <point x="14.0275" y="2.025"/>
+    <point x="12.45" y="2.925"/>
+    <point x="15.605" y="2.925"/>
+    <point x="13.45" y="3.325"/>
+    <point x="14.605" y="3.325"/>
+    <point x="14.0275" y="3.325"/>
+    <point x="4.155" y="-0.775"/>
+    <point x="4.155" y="-2.575"/>
+    <point x="2" y="-1.675"/>
+    <point x="6.31" y="-1.675"/>
+    <point x="12.08" y="-0.625"/>
+    <point x="12.08" y="-2.425"/>
+    <point x="8" y="-1.525"/>
+    <point x="16.16" y="-1.525"/>
+    <point x="3.77" y="3.875"/>
+    <point x="3.77" y="2.075"/>
+    <point x="2" y="2.975"/>
+    <point x="5.54" y="2.975"/>
+    <point x="4.67166" y="12.0215"/>
+    <point x="7.72286" y="10.649"/>
+    <point x="6.19726" y="11.3353"/>
+    <point x="4.00214" y="10.3863"/>
+    <point x="7.34966" y="9.99225"/>
+    <point x="5.6759" y="10.1893"/>
+    <point x="5.02485" y="8.92313"/>
+    <point x="7.36558" y="9.30137"/>
+    <point x="6.19521" y="9.11225"/>
+    <point x="6.62635" y="7.29727"/>
+    <point x="8.56432" y="8.74961"/>
+    <point x="7.59534" y="8.02344"/>
+    <point x="5.69939" y="-1.00885"/>
+    <point x="7.10467" y="-0.40271"/>
+    <point x="6.40203" y="-0.705782"/>
+    <point x="6.74184" y="-2.69798"/>
+    <point x="8.47368" y="-0.442627"/>
+    <point x="7.60776" y="-1.5703"/>
+    <point x="10.8175" y="-0.638074"/>
+    <point x="10.5494" y="-0.449713"/>
+    <point x="10.6834" y="-0.543893"/>
+    <point x="12.7985" y="2.30795"/>
+    <point x="11.0901" y="1.45023"/>
+    <point x="11.9443" y="1.87909"/>
+    <point x="5.13284" y="2.35353"/>
+    <point x="7.11382" y="1.45018"/>
+    <point x="6.12333" y="1.90186"/>
+    <point x="15.0103" y="0.649"/>
+    <point x="17.5503" y="-0.875"/>
+    <point x="20.0903" y="0.649"/>
+    <point x="17.5503" y="2.173"/>
+    <point x="16.2803" y="-0.113"/>
+    <point x="18.8203" y="-0.113"/>
+    <point x="18.8203" y="1.411"/>
+    <point x="20.1393" y="0.664645"/>
+    <point x="23.7003" y="0.686164"/>
+    <point x="21.9198" y="0.675404"/>
+    <point x="14.9599" y="0.602792"/>
+    <point x="11.8448" y="0.547223"/>
+    <point x="13.4024" y="0.575008"/>
+    <point x="11.8492" y="0.297263"/>
+    <point x="11.3449" y="0.538305"/>
+    <point x="11.8403" y="0.797183"/>
+    <point x="11.5971" y="0.417784"/>
+    <point x="11.5926" y="0.667744"/>
+    <point x="20.6828" y="-1.525"/>
+    <point x="20.6828" y="-3.325"/>
+    <point x="16.4103" y="-2.425"/>
+    <point x="24.9553" y="-2.425"/>
+    <point x="32.1628" y="-4.075"/>
+    <point x="32.1628" y="-5.875"/>
+    <point x="28.6603" y="-4.975"/>
+    <point x="35.6653" y="-4.975"/>
+    <point x="29.6603" y="-4.575"/>
+    <point x="34.6653" y="-4.575"/>
+    <point x="32.1628" y="-4.575"/>
+    <point x="19.4628" y="4.175"/>
+    <point x="19.4628" y="2.375"/>
+    <point x="15.9603" y="3.275"/>
+    <point x="22.9653" y="3.275"/>
+    <point x="21.6278" y="6.225"/>
+    <point x="21.6278" y="4.425"/>
+    <point x="18.5103" y="5.325"/>
+    <point x="24.7453" y="5.325"/>
+    <point x="30.5128" y="4.625"/>
+    <point x="30.5128" y="2.825"/>
+    <point x="27.0103" y="3.725"/>
+    <point x="34.0153" y="3.725"/>
+    <point x="24.3768" y="-0.24986"/>
+    <point x="22.1599" y="-1.55525"/>
+    <point x="23.2684" y="-0.902554"/>
+    <point x="27.0223" y="-0.249066"/>
+    <point x="31.1829" y="-4.07408"/>
+    <point x="29.1026" y="-2.16157"/>
+    <point x="27.4106" y="1.65011"/>
+    <point x="29.2151" y="2.85705"/>
+    <point x="28.3128" y="2.25358"/>
+    <point x="25.0943" y="1.64962"/>
+    <point x="22.4811" y="4.42027"/>
+    <point x="23.7877" y="3.03494"/>
+    <point x="23.6997" y="1.60354"/>
+    <point x="21.4205" y="2.50269"/>
+    <point x="22.5601" y="2.05312"/>
+    <point x="25.2103" y="5.225"/>
+    <point x="26.9603" y="5.175"/>
+    <point x="26.0603" y="6.575"/>
+    <point x="26.0853" y="5.2"/>
+    <point x="26.5103" y="5.875"/>
+    <point x="26.072" y="5.15106"/>
+    <point x="26.0073" y="1.63999"/>
+    <point x="26.0396" y="3.39552"/>
+    <point x="25.9603" y="5.175"/>
+    <point x="25.9603" y="4.175"/>
+    <point x="25.4603" y="4.675"/>
+    <point x="26.4603" y="4.675"/>
+    <point x="25.7441" y="6.16715"/>
+    <point x="19.6907" y="11.351"/>
+    <point x="22.7174" y="8.75907"/>
+    <point x="26.3662" y="6.19023"/>
+    <point x="31.545" y="12.0017"/>
+    <point x="28.9556" y="9.09597"/>
+    <point x="26.479" y="6.01649"/>
+    <point x="42.5501" y="11.7921"/>
+    <point x="34.5146" y="8.90431"/>
+    <point x="21.1303" y="8.375"/>
+    <point x="21.1303" y="6.575"/>
+    <point x="19.3603" y="7.475"/>
+    <point x="22.9003" y="7.475"/>
+    <point x="22.6721" y="6.97715"/>
+    <point x="25.6492" y="6.01582"/>
+    <point x="24.1606" y="6.49648"/>
+    <point x="21.1203" y="17.675"/>
+    <point x="21.1203" y="15.875"/>
+    <point x="17.8103" y="16.775"/>
+    <point x="24.4303" y="16.775"/>
+    <point x="15.5478" y="16.125"/>
+    <point x="15.5478" y="14.325"/>
+    <point x="11.6603" y="15.225"/>
+    <point x="19.4353" y="15.225"/>
+    <point x="16.6978" y="10.025"/>
+    <point x="16.6978" y="8.225"/>
+    <point x="12.8103" y="9.125"/>
+    <point x="20.5853" y="9.125"/>
+    <point x="20.5918" y="15.8431"/>
+    <point x="19.1209" y="13.2494"/>
+    <point x="19.8564" y="14.5462"/>
+    <point x="16.4921" y="14.3149"/>
+    <point x="17.5967" y="13.2501"/>
+    <point x="17.0444" y="13.7825"/>
+    <point x="17.2523" y="10.0591"/>
+    <point x="18.0188" y="11.3504"/>
+    <point x="17.6355" y="10.7047"/>
+    <point x="33.8403" y="18.75"/>
+    <point x="33.8403" y="16.95"/>
+    <point x="29.7603" y="17.85"/>
+    <point x="37.9203" y="17.85"/>
+    <point x="25.2853" y="12.5"/>
+    <point x="25.2853" y="10.7"/>
+    <point x="22.3603" y="11.6"/>
+    <point x="28.2103" y="11.6"/>
+    <point x="25.0478" y="14.7"/>
+    <point x="25.0478" y="12.9"/>
+    <point x="21.1603" y="13.8"/>
+    <point x="28.9353" y="13.8"/>
+    <point x="28.5403" y="16.95"/>
+    <point x="28.5403" y="15.15"/>
+    <point x="24.4603" y="16.05"/>
+    <point x="32.6203" y="16.05"/>
+    <point x="27.8234" y="12.0823"/>
+    <point x="30.1" y="12.5149"/>
+    <point x="28.9617" y="12.2986"/>
+    <point x="28.5742" y="13.3918"/>
+    <point x="30.1009" y="13.215"/>
+    <point x="29.3375" y="13.3034"/>
+    <point x="29.6573" y="15.1505"/>
+    <point x="31.2133" y="13.8976"/>
+    <point x="30.4353" y="14.524"/>
+    <point x="33.5604" y="16.9043"/>
+    <point x="32.6712" y="13.9002"/>
+    <point x="33.1158" y="15.4022"/>
+    <point x="41.1101" y="17.8395"/>
+    <point x="43.8426" y="16.2"/>
+    <point x="46.5751" y="17.8395"/>
+    <point x="43.8426" y="19.479"/>
+    <point x="42.4764" y="17.0198"/>
+    <point x="45.2089" y="17.0198"/>
+    <point x="45.2089" y="18.6593"/>
+    <point x="47.8626" y="27.425"/>
+    <point x="47.8626" y="25.625"/>
+    <point x="44.3601" y="26.525"/>
+    <point x="51.3651" y="26.525"/>
+    <point x="37.9526" y="27.325"/>
+    <point x="37.9526" y="25.525"/>
+    <point x="32.9101" y="26.425"/>
+    <point x="42.9951" y="26.425"/>
+    <point x="33.9101" y="26.825"/>
+    <point x="41.9951" y="26.825"/>
+    <point x="37.9526" y="26.825"/>
+    <point x="38.8201" y="14.625"/>
+    <point x="38.8201" y="12.825"/>
+    <point x="35.5101" y="13.725"/>
+    <point x="42.1301" y="13.725"/>
+    <point x="36.5276" y="24.325"/>
+    <point x="36.5276" y="22.525"/>
+    <point x="33.4101" y="23.425"/>
+    <point x="39.6451" y="23.425"/>
+    <point x="46.8201" y="25.6301"/>
+    <point x="45.1545" y="24.2003"/>
+    <point x="45.9873" y="24.9152"/>
+    <point x="39.678" y="23.3517"/>
+    <point x="41.95" y="23.2988"/>
+    <point x="40.814" y="23.3252"/>
+    <point x="39.6315" y="25.5504"/>
+    <point x="42.2247" y="24.1996"/>
+    <point x="40.9281" y="24.875"/>
+    <point x="43.7115" y="13.1486"/>
+    <point x="43.7954" y="16.1498"/>
+    <point x="43.7534" y="14.6492"/>
+    <point x="43.9907" y="21.7503"/>
+    <point x="43.9066" y="19.5293"/>
+    <point x="43.9486" y="20.6398"/>
+    <point x="43.7409" y="21.7598"/>
+    <point x="44.0096" y="22.25"/>
+    <point x="44.2405" y="21.7409"/>
+    <point x="43.8753" y="22.0049"/>
+    <point x="44.1251" y="21.9954"/>
+    <point x="50.8101" y="23.2145"/>
+    <point x="53.5426" y="21.575"/>
+    <point x="56.2751" y="23.2145"/>
+    <point x="53.5426" y="24.854"/>
+    <point x="52.1763" y="22.3948"/>
+    <point x="54.9089" y="22.3948"/>
+    <point x="54.9089" y="24.0343"/>
+    <point x="56.2177" y="12.8392"/>
+    <point x="56.2751" y="23.2145"/>
+    <point x="56.2464" y="18.0268"/>
+    <point x="46.1451" y="23.239"/>
+    <point x="50.8101" y="23.2145"/>
+    <point x="48.4776" y="23.2267"/>
+    <point x="50.6201" y="9.325"/>
+    <point x="50.6201" y="7.525"/>
+    <point x="47.3101" y="8.425"/>
+    <point x="53.9301" y="8.425"/>
+    <point x="48.3101" y="8.825"/>
+    <point x="52.9301" y="8.825"/>
+    <point x="50.6201" y="8.825"/>
+    <point x="57.8701" y="8.825"/>
+    <point x="57.8701" y="7.025"/>
+    <point x="54.5601" y="7.925"/>
+    <point x="61.1801" y="7.925"/>
+    <point x="47.3101" y="12.0025"/>
+    <point x="49.2726" y="10.825"/>
+    <point x="51.2351" y="12.0025"/>
+    <point x="49.2726" y="13.18"/>
+    <point x="48.2913" y="11.4138"/>
+    <point x="50.2538" y="11.4138"/>
+    <point x="50.2538" y="12.5912"/>
+    <point x="44.8203" y="12.1599"/>
+    <point x="47.2601" y="12.0736"/>
+    <point x="46.0402" y="12.1168"/>
+    <point x="51.2821" y="11.9728"/>
+    <point x="54.5004" y="11.9253"/>
+    <point x="52.8912" y="11.9491"/>
+    <point x="51.9888" y="9.27551"/>
+    <point x="54.7052" y="10.9634"/>
+    <point x="53.347" y="10.1194"/>
+    <point x="57.4779" y="8.86562"/>
+    <point x="56.6085" y="10.9504"/>
+    <point x="57.0432" y="9.90801"/>
+    <point x="60.4001" y="12.0775"/>
+    <point x="62.3626" y="10.9"/>
+    <point x="64.3251" y="12.0775"/>
+    <point x="62.3626" y="13.255"/>
+    <point x="61.3813" y="11.4887"/>
+    <point x="63.3439" y="11.4887"/>
+    <point x="63.3439" y="12.6663"/>
+    <point x="57.9249" y="11.9494"/>
+    <point x="60.3499" y="12.0194"/>
+    <point x="59.1374" y="11.9844"/>
+    <point x="64.3691" y="12.0696"/>
+    <point x="66.15" y="12.0626"/>
+    <point x="65.2595" y="12.0661"/>
+    <point x="66.151" y="12.3126"/>
+    <point x="66.65" y="12.0607"/>
+    <point x="66.149" y="11.8126"/>
+    <point x="66.4005" y="12.1867"/>
+    <point x="66.3995" y="11.9367"/>
+    <point x="69.3176" y="9.4"/>
+    <point x="69.3176" y="7.6"/>
+    <point x="66.2001" y="8.5"/>
+    <point x="72.4351" y="8.5"/>
+    <point x="69.4176" y="16.45"/>
+    <point x="69.4176" y="14.65"/>
+    <point x="66.3001" y="15.55"/>
+    <point x="72.5351" y="15.55"/>
+    <point x="67.3001" y="15.95"/>
+    <point x="71.5351" y="15.95"/>
+    <point x="69.4176" y="15.95"/>
+    <point x="69.333" y="9.45034"/>
+    <point x="69.3596" y="11.0997"/>
+    <point x="69.3463" y="10.275"/>
+    <point x="69.4061" y="14.6032"/>
+    <point x="69.3865" y="12.9968"/>
+    <point x="69.3963" y="13.8"/>
+    <point x="24.0739" y="-5.6725"/>
+    <point x="26.0364" y="-6.85"/>
+    <point x="27.9989" y="-5.6725"/>
+    <point x="26.0364" y="-4.495"/>
+    <point x="25.0551" y="-6.26125"/>
+    <point x="27.0176" y="-6.26125"/>
+    <point x="27.0176" y="-5.08375"/>
+    <point x="24.4739" y="-5.6725"/>
+    <point x="26.0364" y="-6.61"/>
+    <point x="27.5989" y="-5.6725"/>
+    <point x="26.0364" y="-4.735"/>
+    <point x="25.2551" y="-6.14125"/>
+    <point x="26.8177" y="-6.14125"/>
+    <point x="26.8177" y="-5.20375"/>
+    <point x="26.0914" y="-8.55054"/>
+    <point x="26.0598" y="-6.89993"/>
+    <point x="26.0756" y="-7.72523"/>
+    <point x="26.3413" y="-8.54576"/>
+    <point x="26.1009" y="-9.05045"/>
+    <point x="25.8414" y="-8.55531"/>
+    <point x="26.2211" y="-8.79811"/>
+    <point x="25.9712" y="-8.80288"/>
+    <point x="26.0275" y="-4.44576"/>
+    <point x="25.9969" y="-0.249807"/>
+    <point x="26.0122" y="-2.34779"/>
+    <point x="19.3864" y="-9.3"/>
+    <point x="19.3864" y="-11.1"/>
+    <point x="17.4239" y="-10.2"/>
+    <point x="21.3489" y="-10.2"/>
+    <point x="18.4239" y="-9.8"/>
+    <point x="20.3489" y="-9.8"/>
+    <point x="19.3864" y="-9.8"/>
+    <point x="25.5714" y="-12.75"/>
+    <point x="25.5714" y="-14.55"/>
+    <point x="23.2239" y="-13.65"/>
+    <point x="27.9189" y="-13.65"/>
+    <point x="33.3989" y="-9.2"/>
+    <point x="33.3989" y="-11"/>
+    <point x="30.4739" y="-10.1"/>
+    <point x="36.3239" y="-10.1"/>
+    <point x="25.7158" y="-12.7021"/>
+    <point x="25.9752" y="-11.0001"/>
+    <point x="25.8455" y="-11.8511"/>
+    <point x="21.3961" y="-10.1552"/>
+    <point x="24.6002" y="-10.0839"/>
+    <point x="22.9981" y="-10.1195"/>
+    <point x="30.4257" y="-10.0744"/>
+    <point x="27.59" y="-10.05"/>
+    <point x="29.0078" y="-10.0622"/>
+    <point x="35.3239" y="-0.9975"/>
+    <point x="37.2864" y="-2.175"/>
+    <point x="39.2489" y="-0.9975"/>
+    <point x="37.2864" y="0.18"/>
+    <point x="36.3051" y="-1.58625"/>
+    <point x="38.2677" y="-1.58625"/>
+    <point x="38.2677" y="-0.40875"/>
+    <point x="34.7239" y="2.1895"/>
+    <point x="37.4564" y="0.55"/>
+    <point x="40.1889" y="2.1895"/>
+    <point x="37.4564" y="3.829"/>
+    <point x="36.0902" y="1.36975"/>
+    <point x="38.8227" y="1.36975"/>
+    <point x="38.8227" y="3.00925"/>
+    <point x="28.2803" y="0.7"/>
+    <point x="31.7772" y="0.7"/>
+    <point x="31.7772" y="-0.9975"/>
+    <point x="35.2741" y="-0.9975"/>
+    <point x="30.0287" y="0.7"/>
+    <point x="31.7772" y="-0.14875"/>
+    <point x="33.5257" y="-0.9975"/>
+    <point x="28.2803" y="0.7"/>
+    <point x="31.4774" y="0.7"/>
+    <point x="31.4774" y="2.1895"/>
+    <point x="34.6745" y="2.1895"/>
+    <point x="29.8788" y="0.7"/>
+    <point x="31.4774" y="1.44475"/>
+    <point x="33.0759" y="2.1895"/>
+    <point x="43.9995" y="0.8"/>
+    <point x="41.9241" y="0.8"/>
+    <point x="41.9241" y="-0.9975"/>
+    <point x="39.2987" y="-0.9975"/>
+    <point x="42.9618" y="0.8"/>
+    <point x="41.9241" y="-0.09875"/>
+    <point x="40.6114" y="-0.9975"/>
+    <point x="43.9995" y="1.05"/>
+    <point x="44.4995" y="0.8"/>
+    <point x="43.9995" y="0.55"/>
+    <point x="44.2495" y="0.925"/>
+    <point x="44.2495" y="0.675"/>
+    <point x="44.5495" y="0.8"/>
+    <point x="42.3939" y="0.8"/>
+    <point x="42.3939" y="2.1895"/>
+    <point x="40.2383" y="2.1895"/>
+    <point x="43.4717" y="0.8"/>
+    <point x="42.3939" y="1.49475"/>
+    <point x="41.3161" y="2.1895"/>
+    <point x="45.4148" y="-1.8"/>
+    <point x="45.4148" y="-3.6"/>
+    <point x="41.9123" y="-2.7"/>
+    <point x="48.9173" y="-2.7"/>
+    <point x="51.9873" y="-2.2"/>
+    <point x="51.9873" y="-4"/>
+    <point x="49.0623" y="-3.1"/>
+    <point x="54.9123" y="-3.1"/>
+    <point x="50.0623" y="-2.7"/>
+    <point x="53.9123" y="-2.7"/>
+    <point x="51.9873" y="-2.7"/>
+    <point x="56.1298" y="-0.25"/>
+    <point x="56.1298" y="-2.05"/>
+    <point x="53.0123" y="-1.15"/>
+    <point x="59.2473" y="-1.15"/>
+    <point x="57.8373" y="2.05"/>
+    <point x="57.8373" y="0.25"/>
+    <point x="54.9123" y="1.15"/>
+    <point x="60.7623" y="1.15"/>
+    <point x="54.8836" y="1.04069"/>
+    <point x="52.2093" y="0.941718"/>
+    <point x="53.5465" y="0.991203"/>
+    <point x="53.7345" y="-0.54729"/>
+    <point x="52.1527" y="-0.149292"/>
+    <point x="52.9436" y="-0.348291"/>
+    <point x="51.1542" y="-2.19927"/>
+    <point x="49.258" y="-0.149292"/>
+    <point x="50.2061" y="-1.17428"/>
+    <point x="46.1916" y="-1.78313"/>
+    <point x="47.5779" y="-0.146777"/>
+    <point x="46.8847" y="-0.964954"/>
+    <point x="37.5176" y="7.2"/>
+    <point x="37.5176" y="5.4"/>
+    <point x="34.0151" y="6.3"/>
+    <point x="41.0201" y="6.3"/>
+    <point x="37.5035" y="5.35015"/>
+    <point x="37.4815" y="3.87745"/>
+    <point x="37.4925" y="4.6138"/>
+    <point x="41.037" y="13.0301"/>
+    <point x="42.5519" y="12.5552"/>
+    <point x="41.7944" y="12.7926"/>
+    <point x="41.8502" y="9.525"/>
+    <point x="41.8502" y="7.725"/>
+    <point x="37.3852" y="8.625"/>
+    <point x="46.3152" y="8.625"/>
+    <point x="42.3324" y="9.56457"/>
+    <point x="43.1974" y="11.25"/>
+    <point x="42.7649" y="10.4073"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="-10.45" y="-0.65" width="4.095" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="-10.45" y="-0.65" width="4.095" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="-8.4025" y="0.45" font-size="0.8" textLength="2.695">TARJETA</svg:text>
+    <svg:rect style="fill: #ffffff" x="23.75" y="-0.2" width="4.48" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="23.75" y="-0.2" width="4.48" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="25.99" y="0.9" font-size="0.8" textLength="3.08">SERVICIO</svg:text>
+    <svg:rect style="fill: #ffffff" x="7.4" y="8.8" width="4.865" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="7.4" y="8.8" width="4.865" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="7.65" y="9.05" width="4.365" height="1.3"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="9.8325" y="9.9" font-size="0.8" textLength="3.465">DIRECCION</svg:text>
+    <svg:rect style="fill: #ffffff" x="7.15" y="-0.4" width="4.095" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="7.15" y="-0.4" width="4.095" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="9.1975" y="0.7" font-size="0.8" textLength="2.695">CLIENTE</svg:text>
+    <svg:rect style="fill: #ffffff" x="16.15" y="11.4" width="4.865" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="16.15" y="11.4" width="4.865" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="18.5825" y="12.5" font-size="0.8" textLength="3.465">TELEFONIA</svg:text>
+    <svg:rect style="fill: #ffffff" x="44.6" y="-0.1" width="7.56" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="44.6" y="-0.1" width="7.56" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="48.38" y="1" font-size="0.8" textLength="6.16">ESTATUS_SERVICIO</svg:text>
+    <svg:rect style="fill: #ffffff" x="-6.3" y="17.15" width="3.71" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="-6.3" y="17.15" width="3.71" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="-4.445" y="18.25" font-size="0.8" textLength="2.31">ESTADO</svg:text>
+    <svg:rect style="fill: #ffffff" x="7.9" y="17.3" width="4.865" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="7.9" y="17.3" width="4.865" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="10.3325" y="18.4" font-size="0.8" textLength="3.465">MUNICIPIO</svg:text>
+    <svg:rect style="fill: #ffffff" x="24.65" y="-10.95" width="2.94" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="24.65" y="-10.95" width="2.94" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="24.9" y="-10.7" width="2.44" height="1.3"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="26.12" y="-9.85" font-size="0.8" textLength="1.54">PAGO</svg:text>
+    <svg:rect style="fill: #ffffff" x="30.15" y="12.05" width="4.48" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="30.15" y="12.05" width="4.48" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="32.39" y="13.15" font-size="0.8" textLength="3.08">INTERNET</svg:text>
+    <svg:rect style="fill: #ffffff" x="54.55" y="11" width="3.325" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="54.55" y="11" width="3.325" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="56.2125" y="12.1" font-size="0.8" textLength="1.925">CANAL</svg:text>
+    <svg:rect style="fill: #ffffff" x="66.75" y="11.15" width="5.25" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="66.75" y="11.15" width="5.25" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="69.375" y="12.25" font-size="0.8" textLength="3.85">TIPO_CANAL</svg:text>
+    <svg:rect style="fill: #ffffff" x="42.6" y="11.3" width="2.17" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="42.6" y="11.3" width="2.17" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="43.685" y="12.4" font-size="0.8" textLength="0.77">TV</svg:text>
+    <svg:rect style="fill: #ffffff" x="42" y="22.35" width="4.095" height="1.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="42" y="22.35" width="4.095" height="1.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="44.0475" y="23.45" font-size="0.8" textLength="2.695">PAQUETE</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="-11.5975" cy="18.05" rx="3.5025" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="-11.5975" cy="18.05" rx="3.5025" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="-11.5975" y="18.25" font-size="0.8" textLength="5.005">nombre estado</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="-14.1" y1="18.45" x2="-9.095" y2="18.45"/>
+    <svg:polygon style="fill: #ffffff" points="0.05,18.0395 2.7825,16.4 5.515,18.0395 2.7825,19.679 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="0.05,18.0395 2.7825,16.4 5.515,18.0395 2.7825,19.679 "/>
+    <svg:text style="fill: #000000; text-anchor:end; font-family: monospace; font-style: normal; font-weight: normal" x="-0.25" y="17.7395" font-size="0.8" textLength="1.155">1:1</svg:text>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="5.815" y="17.7395" font-size="0.8" textLength="1.155">1:M</svg:text>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="2.7825" y="18.2395" font-size="0.8" textLength="3.465">pertenece</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="10.43" cy="22.4" rx="4.08" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="10.43" cy="22.4" rx="4.08" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="10.43" y="22.6" font-size="0.8" textLength="6.16">nombre municipio</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="7.35" y1="22.8" x2="13.51" y2="22.8"/>
+    <svg:polygon style="fill: #ffffff" points="7.55,13.9895 10.2825,12.35 13.015,13.9895 10.2825,15.629 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="7.55,13.9895 10.2825,12.35 13.015,13.9895 10.2825,15.629 "/>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="10.4825" y="12.05" font-size="0.8" textLength="1.155">1:M</svg:text>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="10.4825" y="16.729" font-size="0.8" textLength="1.155">1:1</svg:text>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="10.2825" y="14.1895" font-size="0.8" textLength="3.465">pertenece</svg:text>
+    <svg:polygon style="fill: #ffffff" points="-2.4,0.3895 0.3325,-1.25 3.065,0.3895 0.3325,2.029 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="-2.4,0.3895 0.3325,-1.25 3.065,0.3895 0.3325,2.029 "/>
+    <svg:text style="fill: #000000; text-anchor:end; font-family: monospace; font-style: normal; font-weight: normal" x="-2.7" y="0.0895" font-size="0.8" textLength="1.155">0:1</svg:text>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="3.365" y="0.0895" font-size="0.8" textLength="1.155">1:1</svg:text>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="0.3325" y="0.5895" font-size="0.8" textLength="3.465">pertenece</svg:text>
+    <svg:polygon style="fill: #ffffff" points="8,4.587 9.77,3.525 11.54,4.587 9.77,5.649 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="8,4.587 9.77,3.525 11.54,4.587 9.77,5.649 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="8.4,4.587 9.77,3.765 11.14,4.587 9.77,5.409 "/>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="9.97" y="3.225" font-size="0.8" textLength="1.155">1:1</svg:text>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="9.97" y="6.749" font-size="0.8" textLength="1.155">1:2</svg:text>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="9.77" y="4.787" font-size="0.8" textLength="1.54">vive</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="-8.04526" y1="18.05" x2="-6.34925" y2="18.05"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="10.4079" y1="21.45" x2="10.3546" y2="19.15"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="-5.76265" y1="0.292159" x2="-2.44944" y2="0.345072"/>
+    <svg:polygon style="fill: #000000" points="-5.75866,0.0421908 -6.26259,0.284175 -5.76665,0.542127 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="-5.75866,0.0421908 -6.26259,0.284175 -5.76665,0.542127 "/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="3.11363" y1="0.424166" x2="6.54979" y2="0.466997"/>
+    <svg:polygon style="fill: #000000" points="6.54667,0.716978 7.04975,0.473229 6.5529,0.217016 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="6.54667,0.716978 7.04975,0.473229 6.5529,0.217016 "/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="5.56398" y1="18.0986" x2="7.85055" y2="18.1472"/>
+    <svg:path style="fill: #000000" d="M 7.85055 18.1472 C 7.84789,18.2722 7.72026,18.3945 7.59529,18.3919 C 7.47032,18.3892 7.348,18.2616 7.35066,18.1366 C 7.35332,18.0116 7.48095,17.8893 7.60592,17.892 C 7.73089,17.8946 7.8532,18.0223 7.85055,18.1472z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 7.85055 18.1472 C 7.84789,18.2722 7.72026,18.3945 7.59529,18.3919 C 7.47032,18.3892 7.348,18.2616 7.35066,18.1366 C 7.35332,18.0116 7.48095,17.8893 7.60592,17.892 C 7.73089,17.8946 7.8532,18.0223 7.85055,18.1472"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="-2.05957" y1="18.0465" x2="0.000724182" y2="18.0435"/>
+    <svg:polygon style="fill: #000000" points="-2.43457,18.0471 -1.93493,17.7964 -2.05957,18.0465 -1.9342,18.2964 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="-2.43457,18.0471 -1.93493,17.7964 -2.05957,18.0465 -1.9342,18.2964 "/>
+    <svg:ellipse style="fill: #ffffff" cx="-13.345" cy="-1.55" rx="2.155" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="-13.345" cy="-1.55" rx="2.155" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="-13.345" y="-1.35" font-size="0.8" textLength="2.31">numero</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="-14.5" y1="-1.15" x2="-12.19" y2="-1.15"/>
+    <svg:ellipse style="fill: #ffffff" cx="-13.43" cy="2.05" rx="1.77" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="-13.43" cy="2.05" rx="1.77" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="-13.43" y="2.25" font-size="0.8" textLength="1.54">tipo</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="1.7875" cy="8.4" rx="3.8875" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="1.7875" cy="8.4" rx="3.8875" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="1.7875" y="8.6" font-size="0.8" textLength="5.775">numero exterior</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="0.4875" cy="10.8" rx="3.8875" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="0.4875" cy="10.8" rx="3.8875" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="0.4875" y="11" font-size="0.8" textLength="5.775">numero interior</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="2.83" cy="12.85" rx="4.08" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="2.83" cy="12.85" rx="4.08" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="2.83" y="13.05" font-size="0.8" textLength="6.16">numero direccion</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-dasharray: 0.3; stroke: #000000" x1="-0.25" y1="13.25" x2="5.91" y2="13.25"/>
+    <svg:ellipse style="fill: #ffffff" cx="5.5625" cy="6.5" rx="1.9625" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="5.5625" cy="6.5" rx="1.9625" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="5.5625" y="6.7" font-size="0.8" textLength="1.925">calle</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="10.3154" y1="16.7629" x2="10.3025" y2="15.6774"/>
+    <svg:polygon style="fill: #000000" points="10.3199,17.1379 10.064,16.6409 10.3154,16.7629 10.5639,16.6349 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="10.3199,17.1379 10.064,16.6409 10.3154,16.7629 10.5639,16.6349 "/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="10.1053" y1="12.3003" x2="9.93204" y2="10.6488"/>
+    <svg:path style="fill: #000000" d="M 9.93204 10.6488 C 10.0564,10.6358 10.1937,10.747 10.2068,10.8714 C 10.2198,10.9957 10.1085,11.133 9.9842,11.1461 C 9.85989,11.1591 9.72253,11.0478 9.70948,10.9235 C 9.69644,10.7992 9.80772,10.6618 9.93204,10.6488z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 9.93204 10.6488 C 10.0564,10.6358 10.1937,10.747 10.2068,10.8714 C 10.2198,10.9957 10.1085,11.133 9.9842,11.1461 C 9.85989,11.1591 9.72253,11.0478 9.70948,10.9235 C 9.69644,10.7992 9.80772,10.6618 9.93204,10.6488"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="9.82088" y1="8.74974" x2="9.78359" y2="5.6986"/>
+    <svg:path style="fill: #000000" d="M 9.82088 8.74974 C 9.69589,8.75127 9.56938,8.6278 9.56785,8.50281 C 9.56632,8.37782 9.68978,8.2513 9.81477,8.24978 C 9.93976,8.24825 10.0663,8.37171 10.0678,8.4967 C 10.0693,8.62169 9.94587,8.74821 9.82088,8.74974z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 9.82088 8.74974 C 9.69589,8.75127 9.56938,8.6278 9.56785,8.50281 C 9.56632,8.37782 9.68978,8.2513 9.81477,8.24978 C 9.93976,8.24825 10.0663,8.37171 10.0678,8.4967 C 10.0693,8.62169 9.94587,8.74821 9.82088,8.74974"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="9.39816" y1="1.9325" x2="9.61423" y2="3.47495"/>
+    <svg:polygon style="fill: #000000" points="9.34614,1.56113 9.66309,2.02161 9.39816,1.9325 9.16792,2.09098 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="9.34614,1.56113 9.66309,2.02161 9.39816,1.9325 9.16792,2.09098 "/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="-11.9362" y1="1.51519" x2="-10.4995" y2="1.00081"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="-11.6744" y1="-0.941577" x2="-10.5003" y2="-0.513989"/>
+    <svg:ellipse style="fill: #ffffff" cx="6.03" cy="-3.625" rx="4.08" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="6.03" cy="-3.625" rx="4.08" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="6.03" y="-3.425" font-size="0.8" textLength="6.16">apellido paterno</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="14.0275" cy="2.925" rx="1.5775" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="14.0275" cy="2.925" rx="1.5775" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="14.0275" y="3.125" font-size="0.8" textLength="1.155">RFC</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="13.45" y1="3.325" x2="14.605" y2="3.325"/>
+    <svg:ellipse style="fill: #ffffff" cx="4.155" cy="-1.675" rx="2.155" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="4.155" cy="-1.675" rx="2.155" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="4.155" y="-1.475" font-size="0.8" textLength="2.31">nombre</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="12.08" cy="-1.525" rx="4.08" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="12.08" cy="-1.525" rx="4.08" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="12.08" y="-1.325" font-size="0.8" textLength="6.16">apellido materno</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="3.77" cy="2.975" rx="1.77" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="3.77" cy="2.975" rx="1.77" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="3.77" y="3.175" font-size="0.8" textLength="1.54">CURP</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="4.67166" y1="12.0215" x2="7.72286" y2="10.649"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="4.00214" y1="10.3863" x2="7.34966" y2="9.99225"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="5.02485" y1="8.92313" x2="7.36558" y2="9.30137"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="6.62635" y1="7.29727" x2="8.56432" y2="8.74961"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="5.69939" y1="-1.00885" x2="7.10467" y2="-0.40271"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="6.74184" y1="-2.69798" x2="8.47368" y2="-0.442627"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="10.8175" y1="-0.638074" x2="10.5494" y2="-0.449713"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="12.7985" y1="2.30795" x2="11.0901" y2="1.45023"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="5.13284" y1="2.35353" x2="7.11382" y2="1.45018"/>
+    <svg:polygon style="fill: #ffffff" points="15.0103,0.649 17.5503,-0.875 20.0903,0.649 17.5503,2.173 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="15.0103,0.649 17.5503,-0.875 20.0903,0.649 17.5503,2.173 "/>
+    <svg:text style="fill: #000000; text-anchor:end; font-family: monospace; font-style: normal; font-weight: normal" x="14.7103" y="0.349" font-size="0.8" textLength="1.155">1:1</svg:text>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="20.3903" y="0.349" font-size="0.8" textLength="1.155">1:M</svg:text>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="17.5503" y="0.849" font-size="0.8" textLength="3.08">contrata</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="20.1393" y1="0.664645" x2="23.7003" y2="0.686164"/>
+    <svg:path style="fill: #000000" d="M 23.7003 0.686164 C 23.6995,0.811161 23.5738,0.935404 23.4488,0.934648 C 23.3238,0.933893 23.1996,0.80814 23.2003,0.683142 C 23.2011,0.558145 23.3268,0.433902 23.4518,0.434658 C 23.5768,0.435413 23.7011,0.561166 23.7003,0.686164z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 23.7003 0.686164 C 23.6995,0.811161 23.5738,0.935404 23.4488,0.934648 C 23.3238,0.933893 23.1996,0.80814 23.2003,0.683142 C 23.2011,0.558145 23.3268,0.433902 23.4518,0.434658 C 23.5768,0.435413 23.7011,0.561166 23.7003,0.686164"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="14.9599" y1="0.602792" x2="11.8448" y2="0.547223"/>
+    <svg:polygon style="fill: #000000" points="11.8492,0.297263 11.3449,0.538305 11.8403,0.797183 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="11.8492,0.297263 11.3449,0.538305 11.8403,0.797183 "/>
+    <svg:ellipse style="fill: #ffffff" cx="20.6828" cy="-2.425" rx="4.2725" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="20.6828" cy="-2.425" rx="4.2725" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="20.6828" y="-2.225" font-size="0.8" textLength="6.545">fecha instalacion</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="32.1628" cy="-4.975" rx="3.5025" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="32.1628" cy="-4.975" rx="3.5025" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="32.1628" y="-4.775" font-size="0.8" textLength="5.005">numero cuenta</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="29.6603" y1="-4.575" x2="34.6653" y2="-4.575"/>
+    <svg:ellipse style="fill: #ffffff" cx="19.4628" cy="3.275" rx="3.5025" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="19.4628" cy="3.275" rx="3.5025" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="19.4628" y="3.475" font-size="0.8" textLength="5.005">forma de pago</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="21.6278" cy="5.325" rx="3.1175" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="21.6278" cy="5.325" rx="3.1175" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="21.6278" y="5.525" font-size="0.8" textLength="4.235">fecha corte</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="30.5128" cy="3.725" rx="3.5025" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="30.5128" cy="3.725" rx="3.5025" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="30.5128" y="3.925" font-size="0.8" textLength="5.005">costo mensual</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="24.3768" y1="-0.24986" x2="22.1599" y2="-1.55525"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="27.0223" y1="-0.249066" x2="31.1829" y2="-4.07408"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="27.4106" y1="1.65011" x2="29.2151" y2="2.85705"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="25.0943" y1="1.64962" x2="22.4811" y2="4.42027"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="23.6997" y1="1.60354" x2="21.4205" y2="2.50269"/>
+    <svg:polygon style="fill: #ffffff" points="25.2103,5.225 26.9603,5.175 26.0603,6.575 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="25.2103,5.225 26.9603,5.175 26.0603,6.575 "/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="26.072" y1="5.15106" x2="26.0073" y2="1.63999"/>
+    <svg:ellipse style="fill: #ffffff" cx="25.9603" cy="4.675" rx="0.5" ry="0.5"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="25.9603" cy="4.675" rx="0.5" ry="0.5"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="25.7441" y1="6.16715" x2="19.6907" y2="11.351"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="26.3662" y1="6.19023" x2="31.545" y2="12.0017"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="26.479" y1="6.01649" x2="42.5501" y2="11.7921"/>
+    <svg:ellipse style="fill: #ffffff" cx="21.1303" cy="7.475" rx="1.77" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="21.1303" cy="7.475" rx="1.77" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="21.1303" y="7.675" font-size="0.8" textLength="1.54">tipo</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="22.6721" y1="6.97715" x2="25.6492" y2="6.01582"/>
+    <svg:ellipse style="fill: #ffffff" cx="21.1203" cy="16.775" rx="3.31" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="21.1203" cy="16.775" rx="3.31" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="21.1203" y="16.975" font-size="0.8" textLength="4.62">portabilidad</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="15.5478" cy="15.225" rx="3.8875" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="15.5478" cy="15.225" rx="3.8875" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="15.5478" y="15.425" font-size="0.8" textLength="5.775">maximo llamadas</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="16.6978" cy="9.125" rx="3.8875" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="16.6978" cy="9.125" rx="3.8875" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="16.6978" y="9.325" font-size="0.8" textLength="5.775">numero asignado</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="20.5918" y1="15.8431" x2="19.1209" y2="13.2494"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="16.4921" y1="14.3149" x2="17.5967" y2="13.2501"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="17.2523" y1="10.0591" x2="18.0188" y2="11.3504"/>
+    <svg:ellipse style="fill: #ffffff" cx="33.8403" cy="17.85" rx="4.08" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="33.8403" cy="17.85" rx="4.08" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="33.8403" y="18.05" font-size="0.8" textLength="6.16">valocidad subida</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="25.2853" cy="11.6" rx="2.925" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="25.2853" cy="11.6" rx="2.925" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="25.2853" y="11.8" font-size="0.8" textLength="3.85">contraseña</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="25.0478" cy="13.8" rx="3.8875" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="25.0478" cy="13.8" rx="3.8875" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="25.0478" y="14" font-size="0.8" textLength="5.775">correo internet</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="28.5403" cy="16.05" rx="4.08" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="28.5403" cy="16.05" rx="4.08" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="28.5403" y="16.25" font-size="0.8" textLength="6.16">velocidad bajada</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="27.8234" y1="12.0823" x2="30.1" y2="12.5149"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="28.5742" y1="13.3918" x2="30.1009" y2="13.215"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="29.6573" y1="15.1505" x2="31.2133" y2="13.8976"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="33.5604" y1="16.9043" x2="32.6712" y2="13.9002"/>
+    <svg:polygon style="fill: #ffffff" points="41.1101,17.8395 43.8426,16.2 46.5751,17.8395 43.8426,19.479 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="41.1101,17.8395 43.8426,16.2 46.5751,17.8395 43.8426,19.479 "/>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="44.0426" y="15.9" font-size="0.8" textLength="1.155">0:M</svg:text>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="44.0426" y="20.579" font-size="0.8" textLength="1.155">1:1</svg:text>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="43.8426" y="18.0395" font-size="0.8" textLength="3.465">pertenece</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="47.8626" cy="26.525" rx="3.5025" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="47.8626" cy="26.525" rx="3.5025" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="47.8626" y="26.725" font-size="0.8" textLength="5.005">costo mensual</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="37.9526" cy="26.425" rx="5.0425" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="37.9526" cy="26.425" rx="5.0425" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="37.9526" y="26.625" font-size="0.8" textLength="8.085">identificador paquete</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="33.9101" y1="26.825" x2="41.9951" y2="26.825"/>
+    <svg:ellipse style="fill: #ffffff" cx="38.8201" cy="13.725" rx="3.31" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="38.8201" cy="13.725" rx="3.31" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="38.8201" y="13.925" font-size="0.8" textLength="4.62">tipo paquete</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="36.5276" cy="23.425" rx="3.1175" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="36.5276" cy="23.425" rx="3.1175" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="36.5276" y="23.625" font-size="0.8" textLength="4.235">descripcion</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="46.8201" y1="25.6301" x2="45.1545" y2="24.2003"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="39.678" y1="23.3517" x2="41.95" y2="23.2988"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="39.6315" y1="25.5504" x2="42.2247" y2="24.1996"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="43.7115" y1="13.1486" x2="43.7954" y2="16.1498"/>
+    <svg:path style="fill: #000000" d="M 43.7115 13.1486 C 43.8365,13.1451 43.9649,13.2666 43.9684,13.3916 C 43.9719,13.5165 43.8504,13.6449 43.7255,13.6484 C 43.6005,13.6519 43.4721,13.5305 43.4686,13.4055 C 43.4651,13.2806 43.5866,13.1521 43.7115,13.1486z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 43.7115 13.1486 C 43.8365,13.1451 43.9649,13.2666 43.9684,13.3916 C 43.9719,13.5165 43.8504,13.6449 43.7255,13.6484 C 43.6005,13.6519 43.4721,13.5305 43.4686,13.4055 C 43.4651,13.2806 43.5866,13.1521 43.7115,13.1486"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="43.9907" y1="21.7503" x2="43.9066" y2="19.5293"/>
+    <svg:polygon style="fill: #000000" points="43.7409,21.7598 44.0096,22.25 44.2405,21.7409 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="43.7409,21.7598 44.0096,22.25 44.2405,21.7409 "/>
+    <svg:polygon style="fill: #ffffff" points="50.8101,23.2145 53.5426,21.575 56.2751,23.2145 53.5426,24.854 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="50.8101,23.2145 53.5426,21.575 56.2751,23.2145 53.5426,24.854 "/>
+    <svg:text style="fill: #000000; text-anchor:end; font-family: monospace; font-style: normal; font-weight: normal" x="50.5101" y="22.9145" font-size="0.8" textLength="1.155">1:M</svg:text>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="56.5751" y="22.9145" font-size="0.8" textLength="1.155">0:M</svg:text>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="53.5426" y="23.4145" font-size="0.8" textLength="3.465">pertenece</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="56.2177" y1="12.8392" x2="56.2751" y2="23.2145"/>
+    <svg:path style="fill: #000000" d="M 56.2177 12.8392 C 56.3427,12.8385 56.4684,12.9628 56.4691,13.0878 C 56.4698,13.2128 56.3455,13.3385 56.2205,13.3392 C 56.0955,13.3399 55.9698,13.2156 55.9691,13.0906 C 55.9684,12.9656 56.0927,12.8399 56.2177,12.8392z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 56.2177 12.8392 C 56.3427,12.8385 56.4684,12.9628 56.4691,13.0878 C 56.4698,13.2128 56.3455,13.3385 56.2205,13.3392 C 56.0955,13.3399 55.9698,13.2156 55.9691,13.0906 C 55.9684,12.9656 56.0927,12.8399 56.2177,12.8392"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="46.1451" y1="23.239" x2="50.8101" y2="23.2145"/>
+    <svg:path style="fill: #000000" d="M 46.1451 23.239 C 46.1445,23.114 46.2688,22.9883 46.3938,22.9877 C 46.5188,22.987 46.6445,23.1114 46.6451,23.2364 C 46.6458,23.3614 46.5214,23.487 46.3964,23.4877 C 46.2714,23.4883 46.1458,23.364 46.1451,23.239z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 46.1451 23.239 C 46.1445,23.114 46.2688,22.9883 46.3938,22.9877 C 46.5188,22.987 46.6445,23.1114 46.6451,23.2364 C 46.6458,23.3614 46.5214,23.487 46.3964,23.4877 C 46.2714,23.4883 46.1458,23.364 46.1451,23.239"/>
+    <svg:ellipse style="fill: #ffffff" cx="50.6201" cy="8.425" rx="3.31" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="50.6201" cy="8.425" rx="3.31" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="50.6201" y="8.625" font-size="0.8" textLength="4.62">numero canal</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="48.3101" y1="8.825" x2="52.9301" y2="8.825"/>
+    <svg:ellipse style="fill: #ffffff" cx="57.8701" cy="7.925" rx="3.31" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="57.8701" cy="7.925" rx="3.31" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="57.8701" y="8.125" font-size="0.8" textLength="4.62">nombre canal</svg:text>
+    <svg:polygon style="fill: #ffffff" points="47.3101,12.0025 49.2726,10.825 51.2351,12.0025 49.2726,13.18 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="47.3101,12.0025 49.2726,10.825 51.2351,12.0025 49.2726,13.18 "/>
+    <svg:text style="fill: #000000; text-anchor:end; font-family: monospace; font-style: normal; font-weight: normal" x="47.0101" y="11.7025" font-size="0.8" textLength="1.155">0:M</svg:text>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="51.5351" y="11.7025" font-size="0.8" textLength="1.925">1:150</svg:text>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="49.2726" y="12.2025" font-size="0.8" textLength="1.925">tiene</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="44.8203" y1="12.1599" x2="47.2601" y2="12.0736"/>
+    <svg:path style="fill: #000000" d="M 44.8203 12.1599 C 44.8159,12.0349 44.9364,11.9056 45.0613,11.9012 C 45.1863,11.8968 45.3156,12.0173 45.32,12.1422 C 45.3244,12.2671 45.2039,12.3965 45.079,12.4009 C 44.9541,12.4053 44.8247,12.2848 44.8203,12.1599z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 44.8203 12.1599 C 44.8159,12.0349 44.9364,11.9056 45.0613,11.9012 C 45.1863,11.8968 45.3156,12.0173 45.32,12.1422 C 45.3244,12.2671 45.2039,12.3965 45.079,12.4009 C 44.9541,12.4053 44.8247,12.2848 44.8203,12.1599"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="51.2821" y1="11.9728" x2="54.5004" y2="11.9253"/>
+    <svg:path style="fill: #000000" d="M 54.5004 11.9253 C 54.5022,12.0503 54.3791,12.1771 54.2541,12.179 C 54.1291,12.1808 54.0023,12.0577 54.0005,11.9327 C 53.9986,11.8077 54.1217,11.6809 54.2467,11.679 C 54.3717,11.6772 54.4986,11.8003 54.5004,11.9253z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 54.5004 11.9253 C 54.5022,12.0503 54.3791,12.1771 54.2541,12.179 C 54.1291,12.1808 54.0023,12.0577 54.0005,11.9327 C 53.9986,11.8077 54.1217,11.6809 54.2467,11.679 C 54.3717,11.6772 54.4986,11.8003 54.5004,11.9253"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="51.9888" y1="9.27551" x2="54.7052" y2="10.9634"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="57.4779" y1="8.86562" x2="56.6085" y2="10.9504"/>
+    <svg:polygon style="fill: #ffffff" points="60.4001,12.0775 62.3626,10.9 64.3251,12.0775 62.3626,13.255 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="60.4001,12.0775 62.3626,10.9 64.3251,12.0775 62.3626,13.255 "/>
+    <svg:text style="fill: #000000; text-anchor:end; font-family: monospace; font-style: normal; font-weight: normal" x="60.1001" y="11.7775" font-size="0.8" textLength="1.155">0:M</svg:text>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="64.6251" y="11.7775" font-size="0.8" textLength="1.155">1:1</svg:text>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="62.3626" y="12.2775" font-size="0.8" textLength="1.925">tiene</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="57.9249" y1="11.9494" x2="60.3499" y2="12.0194"/>
+    <svg:path style="fill: #000000" d="M 57.9249 11.9494 C 57.9286,11.8245 58.0571,11.7031 58.1821,11.7067 C 58.307,11.7103 58.4283,11.8389 58.4247,11.9638 C 58.4211,12.0888 58.2926,12.2101 58.1676,12.2065 C 58.0427,12.2029 57.9213,12.0744 57.9249,11.9494z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 57.9249 11.9494 C 57.9286,11.8245 58.0571,11.7031 58.1821,11.7067 C 58.307,11.7103 58.4283,11.8389 58.4247,11.9638 C 58.4211,12.0888 58.2926,12.2101 58.1676,12.2065 C 58.0427,12.2029 57.9213,12.0744 57.9249,11.9494"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="64.3691" y1="12.0696" x2="66.15" y2="12.0626"/>
+    <svg:polygon style="fill: #000000" points="66.151,12.3126 66.65,12.0607 66.149,11.8126 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="66.151,12.3126 66.65,12.0607 66.149,11.8126 "/>
+    <svg:ellipse style="fill: #ffffff" cx="69.3176" cy="8.5" rx="3.1175" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="69.3176" cy="8.5" rx="3.1175" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="69.3176" y="8.7" font-size="0.8" textLength="4.235">descripcion</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="69.4176" cy="15.55" rx="3.1175" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="69.4176" cy="15.55" rx="3.1175" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="69.4176" y="15.75" font-size="0.8" textLength="4.235">clave canal</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="67.3001" y1="15.95" x2="71.5351" y2="15.95"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="69.333" y1="9.45034" x2="69.3596" y2="11.0997"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="69.4061" y1="14.6032" x2="69.3865" y2="12.9968"/>
+    <svg:polygon style="fill: #ffffff" points="24.0739,-5.6725 26.0364,-6.85 27.9989,-5.6725 26.0364,-4.495 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="24.0739,-5.6725 26.0364,-6.85 27.9989,-5.6725 26.0364,-4.495 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="24.4739,-5.6725 26.0364,-6.61 27.5989,-5.6725 26.0364,-4.735 "/>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="26.2364" y="-7.15" font-size="0.8" textLength="1.155">1:1</svg:text>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="26.2364" y="-3.395" font-size="0.8" textLength="1.155">1:3</svg:text>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="26.0364" y="-5.4725" font-size="0.8" textLength="1.925">tiene</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="26.0914" y1="-8.55054" x2="26.0598" y2="-6.89993"/>
+    <svg:polygon style="fill: #000000" points="26.3413,-8.54576 26.1009,-9.05045 25.8414,-8.55531 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="26.3413,-8.54576 26.1009,-9.05045 25.8414,-8.55531 "/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="26.0275" y1="-4.44576" x2="25.9969" y2="-0.249807"/>
+    <svg:path style="fill: #000000" d="M 25.9969 -0.249807 C 25.8719,-0.250718 25.7478,-0.376624 25.7487,-0.501621 C 25.7497,-0.626618 25.8756,-0.750704 26.0006,-0.749794 C 26.1256,-0.748884 26.2496,-0.622977 26.2487,-0.497981 C 26.2478,-0.372984 26.1219,-0.248897 25.9969,-0.249807z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 25.9969 -0.249807 C 25.8719,-0.250718 25.7478,-0.376624 25.7487,-0.501621 C 25.7497,-0.626618 25.8756,-0.750704 26.0006,-0.749794 C 26.1256,-0.748884 26.2496,-0.622977 26.2487,-0.497981 C 26.2478,-0.372984 26.1219,-0.248897 25.9969,-0.249807"/>
+    <svg:ellipse style="fill: #ffffff" cx="19.3864" cy="-10.2" rx="1.9625" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="19.3864" cy="-10.2" rx="1.9625" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="19.3864" y="-10" font-size="0.8" textLength="1.925">folio</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="18.4239" y1="-9.8" x2="20.3489" y2="-9.8"/>
+    <svg:ellipse style="fill: #ffffff" cx="25.5714" cy="-13.65" rx="2.3475" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="25.5714" cy="-13.65" rx="2.3475" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="25.5714" y="-13.45" font-size="0.8" textLength="2.695">importe</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="33.3989" cy="-10.1" rx="2.925" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="33.3989" cy="-10.1" rx="2.925" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="33.3989" y="-9.9" font-size="0.8" textLength="3.85">fecha pago</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="25.7158" y1="-12.7021" x2="25.9752" y2="-11.0001"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="21.3961" y1="-10.1552" x2="24.6002" y2="-10.0839"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="30.4257" y1="-10.0744" x2="27.59" y2="-10.05"/>
+    <svg:polygon style="fill: #ffffff" points="35.3239,-0.9975 37.2864,-2.175 39.2489,-0.9975 37.2864,0.18 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="35.3239,-0.9975 37.2864,-2.175 39.2489,-0.9975 37.2864,0.18 "/>
+    <svg:text style="fill: #000000; text-anchor:end; font-family: monospace; font-style: normal; font-weight: normal" x="35.0239" y="-1.2975" font-size="0.8" textLength="1.155">1:M</svg:text>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="39.5489" y="-1.2975" font-size="0.8" textLength="1.155">1:1</svg:text>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="37.2864" y="-0.7975" font-size="0.8" textLength="1.925">tiene</svg:text>
+    <svg:polygon style="fill: #ffffff" points="34.7239,2.1895 37.4564,0.55 40.1889,2.1895 37.4564,3.829 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="34.7239,2.1895 37.4564,0.55 40.1889,2.1895 37.4564,3.829 "/>
+    <svg:text style="fill: #000000; text-anchor:end; font-family: monospace; font-style: normal; font-weight: normal" x="34.4239" y="1.8895" font-size="0.8" textLength="1.155">1:M</svg:text>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="40.4889" y="1.8895" font-size="0.8" textLength="1.155">1:M</svg:text>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="37.4564" y="2.3895" font-size="0.8" textLength="3.465">historico</svg:text>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="28.2803,0.7 31.7772,0.7 31.7772,-0.9975 35.2741,-0.9975 "/>
+    <svg:path style="fill: #000000" d="M 28.2803 0.7 C 28.2803,0.575 28.4053,0.45 28.5303,0.45 C 28.6553,0.45 28.7803,0.575 28.7803,0.7 C 28.7803,0.825 28.6553,0.95 28.5303,0.95 C 28.4053,0.95 28.2803,0.825 28.2803,0.7z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 28.2803 0.7 C 28.2803,0.575 28.4053,0.45 28.5303,0.45 C 28.6553,0.45 28.7803,0.575 28.7803,0.7 C 28.7803,0.825 28.6553,0.95 28.5303,0.95 C 28.4053,0.95 28.2803,0.825 28.2803,0.7"/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="28.2803,0.7 31.4774,0.7 31.4774,2.1895 34.6745,2.1895 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="43.9995,0.8 41.9241,0.8 41.9241,-0.9975 39.2987,-0.9975 "/>
+    <svg:polygon style="fill: #000000" points="43.9995,1.05 44.4995,0.8 43.9995,0.55 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="43.9995,1.05 44.4995,0.8 43.9995,0.55 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="44.5495,0.8 42.3939,0.8 42.3939,2.1895 40.2383,2.1895 "/>
+    <svg:ellipse style="fill: #ffffff" cx="45.4148" cy="-2.7" rx="3.5025" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="45.4148" cy="-2.7" rx="3.5025" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="45.4148" y="-2.5" font-size="0.8" textLength="5.005">fecha estatus</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="51.9873" cy="-3.1" rx="2.925" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="51.9873" cy="-3.1" rx="2.925" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="51.9873" y="-2.9" font-size="0.8" textLength="3.85">clave pago</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="50.0623" y1="-2.7" x2="53.9123" y2="-2.7"/>
+    <svg:ellipse style="fill: #ffffff" cx="56.1298" cy="-1.15" rx="3.1175" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="56.1298" cy="-1.15" rx="3.1175" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="56.1298" y="-0.95" font-size="0.8" textLength="4.235">descripcion</svg:text>
+    <svg:ellipse style="fill: #ffffff" cx="57.8373" cy="1.15" rx="2.925" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="57.8373" cy="1.15" rx="2.925" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="57.8373" y="1.35" font-size="0.8" textLength="3.85">fecha pago</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="54.8836" y1="1.04069" x2="52.2093" y2="0.941718"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="53.7345" y1="-0.54729" x2="52.1527" y2="-0.149292"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="51.1542" y1="-2.19927" x2="49.258" y2="-0.149292"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="46.1916" y1="-1.78313" x2="47.5779" y2="-0.146777"/>
+    <svg:ellipse style="fill: #ffffff" cx="37.5176" cy="6.3" rx="3.5025" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="37.5176" cy="6.3" rx="3.5025" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="37.5176" y="6.5" font-size="0.8" textLength="5.005">fecha estatus</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="37.5035" y1="5.35015" x2="37.4815" y2="3.87745"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="41.037" y1="13.0301" x2="42.5519" y2="12.5552"/>
+    <svg:ellipse style="fill: #ffffff" cx="41.8502" cy="8.625" rx="4.465" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="41.8502" cy="8.625" rx="4.465" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="41.8502" y="8.825" font-size="0.8" textLength="6.93">num. codificadores</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="42.3324" y1="9.56457" x2="43.1974" y2="11.25"/>
+  </svg:svg>
+</shape>

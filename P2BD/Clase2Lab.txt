@@ -1,0 +1,14 @@
+Dentro de bases de datos:
+	Una instancia de una base de datos es: Un conjunto memoria y procesos.
+
+Para poder recibir instancias dentro de un manejador, lo que debemos hacer es levantar un listener.
+Despues de levantar el listener debemos levantar la instacia de la base de datos, sin embargo para poder
+levantar la instacia de la base de datos debemos validarnos en la base, pero no esta arriba, por lo cual debemos 
+validarnos mediane el sistema operativo con el comando "sqlplus / as sysdba".
+
+Para otorgar privilegios [grant]:
+with admin option		--> Significa que este usuario podra otorgar los mismo privilegios a otros usuarios.
+
+Otorgar privilegios a usuarios para ver nuestras tablas:
+	grant select on table_name to user_name;
+

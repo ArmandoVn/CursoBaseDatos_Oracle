@@ -1,0 +1,20 @@
+--@Autor: Jorge Rodriguez Campos
+--@Fecha creación: dd/mm/yyyy
+--@Descripción: Archivo principal
+
+whenever sqlerror exit rollback;
+prompt conectando como sys para eliminar/crear al usuario
+connect sys as sysdba
+prompt eliminando al usuario avn_p07_previo en caso de existir
+@@s-00-asignaturas-elimina-usuario.sql
+prompt creando usuario avn_p07_previo
+@@s-01-asignaturas-crea-usuario.sql
+prompt conectando como usuario avn_p07_previo
+connect avn_p07_previo/123
+prompt creando tablas
+@@s-02-asignaturas-ddl.sql
+prompt cargando datos
+@@s-03-asignaturas-carga-inicial.sql
+prompt Listo!
+
+--/home/armandovn/Documentos/Practicas_BD/P7BD/s-04-asignaturas-main.sql

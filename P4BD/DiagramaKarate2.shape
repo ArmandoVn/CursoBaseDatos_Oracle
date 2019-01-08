@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>P4BD - DiagramaKarate2</name>
+  <icon>DiagramaKarate2.png</icon>
+  <connections>
+    <point x="17.3824" y="-0.0998275"/>
+    <point x="15.8502" y="-3.7136"/>
+    <point x="16.6163" y="-1.90672"/>
+    <point x="14.4625" y="-3.45"/>
+    <point x="14.4625" y="-5.25"/>
+    <point x="12.5" y="-4.35"/>
+    <point x="16.425" y="-4.35"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:image x="0" y="0" width="46" height="26.3" xlink:href="file:///home/armandovn/Documentos/Practicas_BD/P4BD/DiagramaKarate.png"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="17.3824" y1="-0.0998275" x2="15.8502" y2="-3.7136"/>
+    <svg:ellipse style="fill: #ffffff" cx="14.4625" cy="-4.35" rx="1.9625" ry="0.9"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="14.4625" cy="-4.35" rx="1.9625" ry="0.9"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: monospace; font-style: normal; font-weight: normal" x="14.4625" y="-4.15" font-size="0.8" textLength="1.925">fecha</svg:text>
+  </svg:svg>
+</shape>
